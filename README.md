@@ -39,7 +39,7 @@ export default function Button ({onClick, type, children} : Props) {
 ## • Built with
 
 - TypeScrit;
-- SASS;
+- SCSS;
 
 ## • Author
 
